@@ -1,0 +1,28 @@
+insert 10 10
+insert 09 09
+insert 08 08
+insert 07 07
+insert 06 06
+insert 05 05
+insert 04 04
+insert 11 11
+insert 12 12
+insert 13 13
+print
+delete 10 10
+print
+delete 04 04
+print
+delete 07 07
+print
+delete 06 06
+print
+delete 12 12
+print
+delete 09 09
+print
+delete 05 05
+print
+delete 10 10
+print
+quit

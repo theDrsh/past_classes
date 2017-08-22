@@ -1,0 +1,24 @@
+insert 10
+insert 12 goodbye
+insert 13 who
+insert 9 when
+insert 25 what
+insert 10 
+insert 10
+insert 30 aaa
+insert 39 bbb
+insert 10
+insert 10
+insert 10
+insert 10
+insert 10
+insert 10
+insert 10
+print
+find 10
+delete 10
+print
+find 10
+delete 10
+print
+quit
